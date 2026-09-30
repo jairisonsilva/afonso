@@ -1,1 +1,4 @@
-
+id,descricao,valor,vencimento,categoria,recorrente
+1,Aluguel,1200.00,5,Moradia,true
+2,Internet,100.00,10,Servicos,true
+3,Energia,180.00,15,Moradia,true
