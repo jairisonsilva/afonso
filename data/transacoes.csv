@@ -1,11 +1,5 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+id,data,descricao,categoria,tipo,valor
+1,2026-09-01,Salario,Renda,entrada,4000.00
+2,2026-09-02,Supermercado,Alimentacao,saida,350.00
+3,2026-09-03,Uber,Transporte,saida,45.00
+4,2026-09-05,Aluguel,Moradia,saida,1200.00
