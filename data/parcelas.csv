@@ -1,1 +1,4 @@
-
+id,divida_id,descricao,valor_parcela,total_parcelas,parcelas_pagas,parcelas_restantes,vencimento
+1,1,Notebook,350.00,12,5,7,10
+2,1,Celular,200.00,10,3,7,10
+3,2,Curso,150.00,8,2,6,15
